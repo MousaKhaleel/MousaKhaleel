@@ -5,10 +5,8 @@
 
 - 👋 Hi, I’m @MousaKhaleel
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mousakhaleel22@gmail.com
-- ⚡ Fun fact: ...
 
 <!-- ////////////////////////////////////////////////// --->
 
